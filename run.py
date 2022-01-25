@@ -23,6 +23,7 @@ def check_answer(q_id, a_id):
 @app.route("/")
 def home():
     return render_template("index.html")
+    
 
 
 @app.route("/question")

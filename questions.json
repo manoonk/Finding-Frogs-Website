@@ -2,16 +2,16 @@
     {
         "id": 1,
         "title": "First Question",
-        "question": "What is the correct answer?",
+        "question": "Who is better?",
         "answers": [
             {
                 "id": 1,
-                "text": "This one"
+                "text": "Mias"
             }, {
                 "id": 2,
-                "text": "No this one!!"
+                "text": "Ida"
             }
         ],
-        "correct": 1
+        "correct": 2
     }
 ]
