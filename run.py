@@ -39,7 +39,7 @@ def answer(question_id, answer_id):
 
 
 @app.route("/cats")
-def Cats():
+def cats():
     return render_template("cats.html")
 
 if __name__ == "__main__":
