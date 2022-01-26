@@ -38,7 +38,7 @@ def answer(question_id, answer_id):
 
 
 
-@app.route("/")
+@app.route("/cats")
 def Cats():
     return render_template("cats.html")
 
