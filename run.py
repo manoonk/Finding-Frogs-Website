@@ -42,5 +42,10 @@ def answer(question_id, answer_id):
 def cats():
     return render_template("cats.html")
 
+
+@app.route("/cat1")
+def cat1():
+    return render_template("cat1.html")
+
 if __name__ == "__main__":
     app.run()
