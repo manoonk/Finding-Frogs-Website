@@ -47,5 +47,13 @@ def cats():
 def cat1():
     return render_template("cat1.html")
 
+@app.route("/cat2")
+def cat2():
+    return render_template("cat2.html")
+
+@app.route("/cat3")
+def cat3():
+    return render_template("cat3.html")
+
 if __name__ == "__main__":
     app.run()
