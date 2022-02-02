@@ -2,10 +2,17 @@ body {
     padding: 0px;
     margin: 0px;
 }
+
+a {
+    color: black;
+    text-decoration: none;
+    background-color: rgba(79, 124, 83, 0.667);
+
+}
 .navbar {
     position: fixed;
     width: 180px;
-    background: rgba(79, 124, 83, 0.315);
+    background: rgba(79, 124, 83, 0.667);
     height: 100%;
     margin: 0px;
 }
@@ -24,16 +31,19 @@ body {
 }
 h1 {
     width: 100%;
-    background: rgba(79, 124, 83, 0.315);
+    background: rgba(79, 124, 83, 0.667);
     color: white;
     margin: 0px;
     padding: 15px 20px;
+}
+p {
+    color: rgba(79, 124, 83, 0.667);
+    font-size: 25px;
 }
 #content {
     margin-left: 220px;
     padding: 30px 20px;
 }
-
 .question {
     margin: 50px auto;
     width: 70%;
