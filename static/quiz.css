@@ -79,7 +79,9 @@ h1 {
     height: 60px;
     transition: all 600ms;
 }
-
+.answer-itempic a {
+    width: 250px;
+}
 .answer-item a:hover {
     background: darkgreen;
     font-size: 2rem;

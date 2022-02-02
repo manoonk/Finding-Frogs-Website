@@ -1,51 +1,62 @@
 [
     {
         "id": 1,
-        "title": "First Question",
-        "question": "Who is better?",
+        "title": "Names",
+        "type": "img",
+        "question": "Welche Katze heisst Wilma?",
         "answers": [
             {
                 "id": 1,
-                "text": "Mias"
+                "text": "this one",
+                "src" : "https://i.pinimg.com/originals/fa/3d/46/fa3d468a3ead5526ff21944095f3a476.jpg"
             }, {
                 "id": 2,
-                "text": "Ida"
-            }
-
-        ],
-        "correct": 3
-    },
-    {
-        "id": 2,
-        "title": "Second Question",
-        "question": "Who is better?",
-        "answers": [
-            {
-                "id": 1,
-                "text": "Manon"
+                "text": "this one ",
+                "src": "https://www.brwnpaperbag.com/wp-content/uploads/2021/05/selyn-cats-head-scarves-1.jpeg"
             }, {
-                "id": 2,
-                "text": "Ida"
-            }
-
-        ],
-        "correct": 1
-    },
-    {
-        "id": 3,
-        "title": "Third Question",
-        "question": "Who is better?",
-        "answers": [
-            {
-                "id": 1,
-                "text": "Mias"
-            }, {
-                "id": 2,
-                "text": "Ida"
+                "id": 3,
+                "text": "this one",
+                "src" : "https://www.brwnpaperbag.com/wp-content/uploads/2021/05/selyn-cats-head-scarves-9.jpeg"
             }
 
         ],
         "correct": 2
+    },
+    {
+        "id": 2,
+        "title": "Second Question",
+        "question": "Wie heisst der/die Besitzer*in von Frederike?",
+        "answers": [
+            {
+                "id": 2,
+                "text": "Pete"
+            }, {
+                "id": 1,
+                "text": "Johnathan"
+            }
+
+        ],
+        "correct": 2
+    },
+    {
+        "id": 3,
+        "title": "Third Question",
+        "type": "img",
+        "question": "Welche Katze heisst Frederike?",
+        "answers": [
+            {
+                "id": 1,
+                "src": "https://i.pinimg.com/originals/fa/3d/46/fa3d468a3ead5526ff21944095f3a476.jpg"
+            }, {
+                "id": 2,
+                "src": "https://www.brwnpaperbag.com/wp-content/uploads/2021/05/selyn-cats-head-scarves-1.jpeg"
+            }, {
+                "id": 3,
+                "src": "https://www.brwnpaperbag.com/wp-content/uploads/2021/05/selyn-cats-head-scarves-9.jpeg"
+            }
+
+        ],
+        "correct": 3
     }
    
 ]
