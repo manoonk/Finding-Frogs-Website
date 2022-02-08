@@ -41,7 +41,6 @@
     {
         "id": 3,
         "title": "Dritte Frage",
-        "type": "img",
         "question": "Welche Katze heisst Frederike?",
         "answers": [
             {
@@ -61,7 +60,6 @@
     {
         "id": 5,
         "title": "Fünfte Frage",
-        "type": "img",
         "question": "Welchen Geruch mag Leopold der 2.?",
         "answers": [
             {
@@ -76,6 +74,22 @@
         ],
         "correct": 2
     },
-   
+    {
+        "id": 5,
+        "title": "Sechste Frage",
+        "question": "Was isst Wilma zum Frühstück?",
+        "answers": [
+            {
+                "id": 2,
+                "text": "Ei"
+            }, {
+                "id": 1,
+                "text": "Haferflocken"
+            }
+                
+
+        ],
+        "correct": 2
+    },
    
 ]
