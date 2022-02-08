@@ -124,40 +124,40 @@
             }
 
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "id": 9,
-        "question": "Wie heisst der beste Freund von Leopold??",
+        "question": "Wie heisst der beste Freund von Leopold?",
         "answers": [
             {
-                "id": 2,
+                "id": 1,
                 "text": "Quentin"
             }, {
-                "id": 1,
+                "id": 2,
                 "text": "Quirill"
             }
                 
 
         ],
-        "correct": 1
+        "correct": 2
 
     },
     {
         "id": 10,
-        "question": "Wie heisst die Mäusefamilie in der Kanalisation??",
+        "question": "Wie heisst die Mäusefamilie in der Kanalisation?",
         "answers": [
             {
-                "id": 2,
+                "id": 1,
                 "text": "Käsemann"
             }, {
-                "id": 1,
+                "id": 2,
                 "text": "Käsefrau"
             }
                 
 
         ],
-        "correct": 1
+        "correct": 2
     },
     {
         "id": 10,
@@ -178,5 +178,21 @@
         ],
         "correct": 2
 
+    },
+    {
+        "id": 11,
+        "question": "Wem schickt Wilma ihr Geld?",
+        "answers": [
+            {
+                "id": 2,
+                "text": "Pete"
+            }, {
+                "id": 1,
+                "text": "Klara"
+            }
+                
+
+        ],
+        "correct": 2
     }
 ]
