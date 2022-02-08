@@ -111,11 +111,11 @@
         "question": "Von wo kommt Leopold?",
         "answers": [
             {
-                "id": 2,
+                "id": 1,
                 "text": "aus einer Grosstadt"
             }, 
             {
-                "id": 1,
+                "id": 2,
                 "text": "aus einem kleinen Dorf"
             },
             {
