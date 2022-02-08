@@ -61,7 +61,7 @@
     {
         "id": 5,
         "title": "Fünfte Frage",
-        "question": "Welchen Geruch mag Leopold der 2.?",
+        "question": "Welchen Geruch mag Leopold?",
         "answers": [
             {
                 "id": 2,
@@ -111,5 +111,26 @@
 
         ],
         "correct": 3
+    },
+    {
+        "id": 8,
+        "title": "Achte Frage",
+        "question": "Von wo kommt Leopold?",
+        "answers": [
+            {
+                "id": 2,
+                "text": "aus einer Grosstadt"
+            }, 
+            {
+                "id": 1,
+                "text": "aus einem kleinen Dorf"
+            },
+            {
+                "id": 3,
+                "text": "aus den Bergen"
+            }
+
+        ],
+        "correct": 1
     }
 ]
