@@ -65,6 +65,7 @@ p {
     width: 100%;
     display: flex;
     flex-direction: row;
+    list-style: None;
 }
 
 .answer-item {
