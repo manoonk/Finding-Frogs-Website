@@ -35,6 +35,9 @@ h1 {
     margin: 0px;
     padding: 15px 20px;
 }
+H2 {
+    color: rgba(124, 79, 83, 0.868);
+}
 H3 {
     color:  rgba(134, 81, 106, 0.868);
 }
