@@ -6,8 +6,7 @@
 {% if question.type == "img" %}
 
     <div class="picquestion">
-        <h3>{{question.title}}</h3>
-        <p>{{question.question}}</p>
+        <h3>{{question.question}}</h3>
         <ul class="answer-list">
             {% for answer in question.answers %}
                 <li>
@@ -24,8 +23,7 @@
 
 
     <div class="question">
-        <h3>{{question.title}}</h3>
-        <p>{{question.question}}</p>
+        <h3>{{question.question}}</h3>
         <ul class="answer-list">
             {% for answer in question.answers %}
                 <li class="answer-item">
@@ -35,7 +33,7 @@
                     </a>
                 </li>
             {% endfor %}
-        </ul>78+
+        </ul>
     </div>
 
 {% endif %}
