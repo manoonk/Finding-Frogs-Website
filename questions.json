@@ -158,5 +158,24 @@
 
         ],
         "correct": 1
+    },
+    {
+        "id": 10,
+        "type": "img",
+        "question": "Welche Katze dealt mit Katzenminze?",
+        "answers": [
+            {
+                "id": 1,
+                "src": "https://i.pinimg.com/originals/fa/3d/46/fa3d468a3ead5526ff21944095f3a476.jpg"
+            }, {
+                "id": 2,
+                "src": "https://www.brwnpaperbag.com/wp-content/uploads/2021/05/selyn-cats-head-scarves-1.jpeg"
+            }, {
+                "id": 3,
+                "src": "https://www.brwnpaperbag.com/wp-content/uploads/2021/05/selyn-cats-head-scarves-9.jpeg"
+            }
+
+        ],
+        "correct": 2
     }
 ]
