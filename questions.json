@@ -1,7 +1,6 @@
 [
     {
         "id": 1,
-        "title": "Erste Frage",
         "type": "img",
         "question": "Welche Katze heisst Wilma?",
         "answers": [
@@ -24,7 +23,6 @@
     },
     {
         "id": 2,
-        "title": "Zweite Frage",
         "question": "Wie heisst Frederiekes Besitzer*in?",
         "answers": [
             {
@@ -40,7 +38,6 @@
     },
     {
         "id": 3,
-        "title": "Dritte Frage",
         "type": "img",
         "question": "Welche Katze heisst Frederike?",
         "answers": [
@@ -60,8 +57,7 @@
     },
     {
         "id": 5,
-        "title": "Fünfte Frage",
-        "question": "Welchen Geruch mag Leopold der 2.?",
+        "question": "Welchen Geruch mag Leopold?",
         "answers": [
             {
                 "id": 2,
@@ -76,8 +72,7 @@
         "correct": 2
     },
     {
-        "id": 5,
-        "title": "Sechste Frage",
+        "id": 6,
         "question": "Was isst Wilma zum Frühstück?",
         "answers": [
             {
@@ -91,6 +86,44 @@
 
         ],
         "correct": 2
+    },
+    {
+        "id": 7,
+        "type": "img",
+        "question": "Welche Katze hat einen Baby-Bruder?",
+        "answers": [
+            {
+                "id": 1,
+                "src": "https://i.pinimg.com/originals/fa/3d/46/fa3d468a3ead5526ff21944095f3a476.jpg"
+            }, {
+                "id": 2,
+                "src": "https://www.brwnpaperbag.com/wp-content/uploads/2021/05/selyn-cats-head-scarves-1.jpeg"
+            }, {
+                "id": 3,
+                "src": "https://www.brwnpaperbag.com/wp-content/uploads/2021/05/selyn-cats-head-scarves-9.jpeg"
+            }
+
+        ],
+        "correct": 3
+    },
+    {
+        "id": 8,
+        "question": "Von wo kommt Leopold?",
+        "answers": [
+            {
+                "id": 1,
+                "text": "aus einer Grosstadt"
+            }, 
+            {
+                "id": 2,
+                "text": "aus einem kleinen Dorf"
+            },
+            {
+                "id": 3,
+                "text": "aus den Bergen"
+            }
+
+        ],
+        "correct": 1
     }
-   
 ]
