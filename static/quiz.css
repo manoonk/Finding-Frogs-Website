@@ -4,7 +4,7 @@ body {
 }
 
 a {
-    color: rgba(168, 108, 136, 0.868);
+    color: rgba(134, 81, 106, 0.868);
     text-decoration: none;
 
 }
@@ -21,7 +21,7 @@ a {
 }
 .nav-link {
     text-decoration: None;
-    color: rgba(168, 108, 136, 0.868);
+    color:  rgba(134, 81, 106, 0.868);
     font-size: 1.4rem;
     transition: all 400ms;
 }
@@ -31,12 +31,12 @@ a {
 h1 {
     width: 100%;
     background: rgba(79, 124, 83, 0.667);
-    color: rgba(168, 108, 136, 0.868);
+    color:  rgba(134, 81, 106, 0.868);
     margin: 0px;
     padding: 15px 20px;
 }
 H3 {
-    color: rgba(168, 108, 136, 0.868);
+    color:  rgba(134, 81, 106, 0.868);
 }
 p {
     color: rgba(79, 124, 83, 0.667);
@@ -81,7 +81,7 @@ p {
 
 .answer-item a {
     text-decoration: None;
-    color: rgba(168, 108, 136, 0.868);
+    color:  rgba(134, 81, 106, 0.868);
     border: 3px solid rgba(79, 124, 83, 0.667);
     background: rgba(79, 124, 83, 0.667);
     border-radius: 5px;
