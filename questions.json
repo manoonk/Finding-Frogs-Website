@@ -25,14 +25,14 @@
     {
         "id": 2,
         "title": "Zweite Frage",
-        "question": "Wie heisst der/die Besitzer*in von Frederieke?",
+        "question": "Wie heisst Frederiekes Besitzer*in?",
         "answers": [
             {
                 "id": 2,
                 "text": "Petra"
             }, {
                 "id": 1,
-                "text": "Johnathan"
+                "text": "Pete"
             }
 
         ],

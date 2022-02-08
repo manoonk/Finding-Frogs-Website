@@ -6,7 +6,6 @@ body {
 a {
     color: black;
     text-decoration: none;
-    background-color: rgba(79, 124, 83, 0.667);
 
 }
 .navbar {
@@ -66,6 +65,7 @@ p {
     width: 100%;
     display: flex;
     flex-direction: row;
+    list-style: None;
 }
 
 .answer-item {
