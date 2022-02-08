@@ -25,11 +25,11 @@
     {
         "id": 2,
         "title": "Zweite Frage",
-        "question": "Wie heisst der/die Besitzer*in von Frederike?",
+        "question": "Wie heisst der/die Besitzer*in von Frederieke?",
         "answers": [
             {
                 "id": 2,
-                "text": "Pete"
+                "text": "Petra"
             }, {
                 "id": 1,
                 "text": "Johnathan"
@@ -41,6 +41,7 @@
     {
         "id": 3,
         "title": "Dritte Frage",
+        "type": "img",
         "question": "Welche Katze heisst Frederike?",
         "answers": [
             {
