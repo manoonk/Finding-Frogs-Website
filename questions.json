@@ -56,7 +56,7 @@
         "correct": 3
     },
     {
-        "id": 5,
+        "id": 4,
         "question": "Welchen Geruch mag Leopold?",
         "answers": [
             {
@@ -72,7 +72,7 @@
         "correct": 2
     },
     {
-        "id": 6,
+        "id": 5,
         "question": "Was isst Wilma zum Frühstück?",
         "answers": [
             {
@@ -88,7 +88,7 @@
         "correct": 2
     },
     {
-        "id": 7,
+        "id": 6,
         "type": "img",
         "question": "Welche Katze hat einen Baby-Bruder?",
         "answers": [
@@ -107,7 +107,7 @@
         "correct": 3
     },
     {
-        "id": 8,
+        "id": 7,
         "question": "Von wo kommt Leopold?",
         "answers": [
             {
@@ -127,8 +127,8 @@
         "correct": 2
     },
     {
-        "id": 9,
-        "question": "Wie heisst der beste Freund von Leopold?",
+        "id": 8,
+        "question": "Wie heisst der beste Freund von Leopold??",
         "answers": [
             {
                 "id": 1,
@@ -144,8 +144,8 @@
 
     },
     {
-        "id": 10,
-        "question": "Wie heisst die Mäusefamilie in der Kanalisation?",
+        "id": 9,
+        "question": "Wie heisst die Mäusefamilie in der Kanalisation??",
         "answers": [
             {
                 "id": 1,
