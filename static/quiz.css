@@ -99,7 +99,7 @@ p {
     width: 250px;
 }
 .answer-item a:hover {
-    background: darkgreen;
+    background:  rgba(79, 124, 83, 0.667);;
     font-size: 2rem;
 }
 
