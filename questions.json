@@ -58,5 +58,24 @@
         ],
         "correct": 3
     }
+    {
+        "id": 5,
+        "title": "Fünfte Frage",
+        "type": "img",
+        "question": "Welchen Geruch mag Pete?",
+        "answers": [
+            {
+                "id": 2,
+                "text": "Kokos"
+            }, {
+                "id": 1,
+                "text": "Rose"
+            }
+                
+
+        ],
+        "correct": 2
+    }
+   
    
 ]
