@@ -4,9 +4,8 @@ body {
 }
 
 a {
-    color: black;
+    color: rgba(134, 81, 106, 0.868);
     text-decoration: none;
-    background-color: rgba(79, 124, 83, 0.667);
 
 }
 .navbar {
@@ -22,7 +21,7 @@ a {
 }
 .nav-link {
     text-decoration: None;
-    color: white;
+    color:  rgba(134, 81, 106, 0.868);
     font-size: 1.4rem;
     transition: all 400ms;
 }
@@ -32,9 +31,15 @@ a {
 h1 {
     width: 100%;
     background: rgba(79, 124, 83, 0.667);
-    color: white;
+    color:  rgba(134, 81, 106, 0.868);
     margin: 0px;
     padding: 15px 20px;
+}
+H2 {
+    color: rgba(124, 79, 83, 0.868);
+}
+H3 {
+    color:  rgba(134, 81, 106, 0.868);
 }
 p {
     color: rgba(79, 124, 83, 0.667);
@@ -47,7 +52,7 @@ p {
 .question {
     margin: 50px auto;
     width: 70%;
-    border: 5px dashed forestgreen;
+    border: 5px dashed rgba(79, 124, 83, 0.667);
     border-radius: 15px;
     padding: 40px 70px;
 }
@@ -66,6 +71,7 @@ p {
     width: 100%;
     display: flex;
     flex-direction: row;
+    list-style: None;
 }
 
 .answer-item {
@@ -78,9 +84,9 @@ p {
 
 .answer-item a {
     text-decoration: None;
-    color: white;
-    border: 3px solid forestgreen;
-    background: forestgreen;
+    color:  rgba(134, 81, 106, 0.868);
+    border: 3px solid rgba(79, 124, 83, 0.667);
+    background: rgba(79, 124, 83, 0.667);
     border-radius: 5px;
     width: 100%;
     display: flex;
