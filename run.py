@@ -20,6 +20,9 @@ def home():
 def cats():
     return render_template("cats.html")
 
+@app.route("/spiel")
+def spiel():
+    return render_template("spiel.html")
 
 @app.route("/cat1")
 def cat1():
